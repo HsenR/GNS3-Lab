@@ -3,7 +3,6 @@
 **Student:** Hussein Reslan (ID: 1122037)  
 **Course:** SECU316 System and Network Administration  
 **Date:** May 15, 2025
-
 ---
 
 ## Project Overview
